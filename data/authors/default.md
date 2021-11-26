@@ -2,11 +2,12 @@
 name: Vu Thanh Dat
 avatar: /static/images/avatar.jpeg
 occupation: FinTech's student
-company: University of Economics and Law
+company: University of Economics and Law 
 email: vuthanhdatt.contact@gmail.com
 twitter: https://twitter.com/vuthanhdatt
 linkedin: https://www.linkedin.com/in/vudat
 github: 'https://github.com/vuthanhdatt'
+
 
 ---
 
