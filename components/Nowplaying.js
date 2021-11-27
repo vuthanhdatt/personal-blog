@@ -14,7 +14,7 @@ export default function NowPlaying() {
         {data?.isPlaying && data?.songUrl ? (
             
           <a
-            className="capsize text-gray-800 dark:text-gray-200 font-medium  max-w-max truncate"
+            className="capsize text-gray-800 dark:text-gray-200 font-medium"
             href={data.songUrl}
             target="_blank"
             rel="noopener noreferrer"
@@ -30,7 +30,7 @@ export default function NowPlaying() {
           {' – '}
         </span>
         {data?.isPlaying && data?.songUrl ? (
-         <p className="text-sm text-gray-500 truncate dark:text-gray-400 max-w-max">
+         <p className="text-sm text-gray-500 truncate dark:text-gray-400">
              {data?.artist} </p>
         ) : (
             <svg className="flex-none w-5 h-5 fill-current text-gray-700 dark:text-gray-200 " viewBox="0 0 168 168" >
