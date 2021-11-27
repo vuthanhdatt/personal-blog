@@ -12,7 +12,6 @@ github: 'https://github.com/vuthanhdatt'
 ---
 
 ## About me
-Currently, I'm third year student in University of Ecomomics and Law. I create this blog to share either to save things
-that I find interesting. 
-## How this blog created
-This blog is customized from [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+Xin chào, hiện tại mình đang là sinh viên năm 3 chuyên ngành công nghệ tài chính tại đại học Kinh tế - Luật.
+Đây là trang web cá nhân của mình, mình cũng chưa rõ sẽ viết về gì, nhưng có lẽ mình sẽ chia sẻ những thứ mình cảm thấy thú vị tại đây. 
+
