@@ -19,13 +19,13 @@ export default function Footer() {
           <div>{` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
           <div>{` • `}</div>
-          <Link href="/">{siteMetadata.title}</Link>
-        </div>
-        <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          powered by 
           <Link href="https://github.com/timlrx">
-            timlrx
+          powered by timlrx
           </Link>
+        </div>
+        <div className="mb-8 text-sm text-gray-500 dark:text-gray-400 ">
+          
+          
         </div>
       </div>
     </footer>
