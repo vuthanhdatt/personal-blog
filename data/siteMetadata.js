@@ -2,7 +2,7 @@ const siteMetadata = {
   title: "dat's blog",
   author: 'Vu Thanh Dat',
   headerTitle: '',
-  description: 'All the return in life come from compund interest',
+  description: 'All the return in life come from compound interest',
   language: 'en-us',
   siteUrl: 'https://vuthanhdatt.me',
   siteRepo: 'https://github.com/vuthanhdatt/personal-blog',
